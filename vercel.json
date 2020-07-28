@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/store/(.*)",
+      "destination": "https://shopify.tbntdima.com/$1"
+    }
+  ]
+}
